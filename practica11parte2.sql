@@ -82,3 +82,5 @@ begin
 	DBMS_OUTPUT.PUT_LINE('Total Venta:'||total_v);
 end;
 /
+
+-- Comentario para sincronizar github
